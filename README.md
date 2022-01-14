@@ -1,4 +1,4 @@
-# Black Friday Sales Prediction
+# Black Friday Sales Analysis
 ## Objective
 In this project, I learned a lot about building a data pipeline using Apache Spark with the PySpark Library. Moreover, two Machine Learning algorithms have been applied and evaluated with the specific metrics for making a decision. Finally, this project can let everyone know how Apache Spark work, and what Apache Spark using for, take yourself more better bit by bit everyday
 
