@@ -1,7 +1,7 @@
 # Black Friday Sales Analysis
 ## Objective
-1. Designed and implemented a data pipeline using Apache Spark with the PySpark Library to pre-process the raw dataset. 
-2. Compared the performance of two supervised regression techniques to suggest an efficient model for predicting the price
+1. Design and implement a data pipeline using Apache Spark with the PySpark Library for pre-processing the raw dataset. 
+2. Compare the performance of two supervised regression techniques to suggest an efficient model for predicting the price
 
 ## Dataset overview
 **Dataset:** [Link](https://www.kaggle.com/sdolezel/black-friday) 
